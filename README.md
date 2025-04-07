@@ -1,6 +1,7 @@
 # teatx2
 tea tx manual receiver
-Semua address dah di list recipients.txt
+
+semua address dah di list recipients.txt
 
 > Clone
 
